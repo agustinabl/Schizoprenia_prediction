@@ -1,6 +1,6 @@
 
 ## Schizophrenia prediction: use of Neuroimages and Artificial Intelligence Models.
-~~Detection of schizophrenia based on tractographic techniques with fine tuning in machine learning.~~
+
 
 
 # 
