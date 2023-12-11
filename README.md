@@ -48,7 +48,7 @@ using software DSI Studio and SPM
 ### Data
 * [UCLA Consortium for Neuropsychiatric Phenomics LA5c Study](https://purl.stanford.edu/mg599hw5271)
 ### Objectives
-**In Spanish:**
+**Español:**
 * Diseñar un modelo de aprendizaje automático que detecte anomalías y mecanismos subyacentes a traves de la conectómica de la corteza prefrontal, luego clasifique en categorías, y finalmente prediga el diagnóstico de la enfermedad de esquizofrenia.
 
 Específicamente se propone:
@@ -63,7 +63,7 @@ Específicamente se propone:
 3. Comparar modelos generales de clasificación para determinar el mejor modelo.
 4. Comparar El conectoma de sujeto sano (grupo 1) con sujetos con diagnóstico de esquizofrenia (grupo 2)
 
-**An English:**
+**English:**
 * Design a machine learning model that detects abnormalities and underlying mechanisms through connectomics of the prefrontal cortex, then classifies them into categories, and finally predicts the diagnosis of schizophrenia illness.
 
 Specifically:
